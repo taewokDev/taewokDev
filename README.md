@@ -1,17 +1,15 @@
-<div>
+<!--<div>-->
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+  <!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)-->
   
-</div>
+<!--</div>-->
 
 <div>
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand:<br/>
-  #### :fire: <br/>
-  #### :mortar_board: 
+  #### 새로운 아이디어로 도전하는 것을 좋아하는 김태욱입니다!<br/>
   <br/>
   <br/>
   
@@ -20,7 +18,7 @@
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--TypeScript-->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <!--CSS-->
@@ -37,7 +35,7 @@
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <!--Nextjs-->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nextdotjs-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <!--Tailwind CSS-->
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=JavaScript&logoColor=white"/>
   <br/>
@@ -48,6 +46,11 @@
   <!--Prisma-->
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>
   <br/>
+
+  ### Contact
+  <!--Instagram-->
+  <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+  
   
   <!--### ETC-->
   <!--Amazon AWS-->
