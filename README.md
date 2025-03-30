@@ -14,8 +14,6 @@
 
   
   <h1>💻 Tech Stack 💻</h1>
-  <br/>
-  
   <h2>Language</h2>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -52,6 +50,7 @@
   <a href=https://www.instagram.com/taewok__/>
     <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"/>
   </a>
+  <br/>
   <br/>
   
   
