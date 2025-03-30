@@ -6,14 +6,14 @@
 <!--</div>-->
 
 <div>
-  <h2>👀 About Me 👀</h3>
+  <h2>👀 About Me</h3>
   <p>새로운 가능성을 발견하며 도전을 즐기는 김태욱입니다.</p>
   <br/>
   <br/>
   <br/>
 
   
-  <h1>🛠️ Tech Stack 🛠️</h1>
+  <h1>🛠️ Tech Stack</h1>
   <h2>Language</h2>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -45,7 +45,7 @@
   <br/>
   <br/>
 
-  <h1>💬 Contact 💬</h1>
+  <h1>💬 Contact</h1>
   <!--Instagram-->
   <a href=https://www.instagram.com/taewok__/>
     <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"/>
