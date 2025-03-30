@@ -6,12 +6,12 @@
 <!--</div>-->
 
 <div>
-  <h3>👀 About Me</h3>
-  <p>새로운 아이디어로 도전하는 것을 좋아하는 김태욱입니다!</p> <br/>
+  <h1>👀 About Me 👀</h1>
+  <p>새로운 아이디어로 도전하는 것을 좋아하는 김태욱입니다!</p>
   <br/>
   <br/>
   
-  <h3>Tech Stack</h3>
+  <h1>💻 Tech Stack 💻</h1>
   <h2>Language</h2>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -38,8 +38,9 @@
   <!--Prisma-->
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>
   <br/>
+  <br/>
 
-  <h2>Contact</h2>
+  <h1>💬 Contact 💬</h1>
   <!--Instagram-->
   <a href=https://www.instagram.com/taewok__/>
     <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"/>
