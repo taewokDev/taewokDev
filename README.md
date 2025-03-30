@@ -6,15 +6,13 @@
 <!--</div>-->
 
 <div>
-  <!--Body-->
-  
-  ## 👀 About Me
-  #### 새로운 아이디어로 도전하는 것을 좋아하는 김태욱입니다!<br/>
+  <h3>👀 About Me</h3>
+  <p>새로운 아이디어로 도전하는 것을 좋아하는 김태욱입니다!</p> <br/>
   <br/>
   <br/>
   
-  ## Tech Stack
-  ### Language
+  <h3>Tech Stack</h3>
+  <h2>Language</h2>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--TypeScript-->
@@ -25,7 +23,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
   
-  ### Framework
+  <h2>Framework</h2>
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <!--Nextjs-->
@@ -34,16 +32,16 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
   <br/>
 
-  ### Database
+  <h2>Database</h2>
   <!--PostgreSQL-->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
   <!--Prisma-->
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>
   <br/>
 
-  ### Contact
+  <h2>Contact</h2>
   <!--Instagram-->
-  <a href=https://www.instagram.com/stories/taewok__/>
+  <a href=https://www.instagram.com/taewok__/>
     <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"/>
   </a>
   <br/>
