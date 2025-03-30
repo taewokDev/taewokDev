@@ -13,7 +13,7 @@
   <br/>
   <br/>
   
-  ## 🧱 Tech Stack
+  ## Tech Stack
   ### Language
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -24,12 +24,6 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
-  
-  <!--### Library-->
-  <!--prisma-->
-  <!--<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=PyTorch&logoColor=white"/>-->
-  <!--Selenium-->
-  <!--<br/>-->
   
   ### Framework
   <!--React-->
@@ -49,7 +43,10 @@
 
   ### Contact
   <!--Instagram-->
-  <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"/>
+  <a href=https://www.instagram.com/stories/taewok__/>
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
+  <br/>
   
   
   <!--### ETC-->
